@@ -1,0 +1,173 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header{	
+		position:relative;
+		background-color: orange;
+		background-repeat:no-repeat;
+		background-position:0% 0%;
+		background-size:cover;
+		height:70px;text-align:center;
+		font-size:75px;font-family:arial;
+		font-style:bold;color:#fff;
+		padding-top:50px;padding-bottom:50px;}
+			
+footer{
+		position:auto;
+		background-color:orange;
+		color: white;
+		text-align:center;
+		height:30px;
+		left: 0;
+		bottom: 0;
+		width: 100%;
+		Padding-top:20px;
+		padding-bottom:10px;
+	}
+
+.topnav {
+	position:relative;
+	overflow: hidden;
+	background-color: #333;
+	Height:30px;
+	text-align:center;
+	padding-bottom:10px
+}
+
+.topnav a {
+	float: left;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+.topnav a:hover {
+	background-color: #ddd;
+	color: black;
+}
+
+.topnav a.active {
+	background-color: red;
+	color: white;
+}
+
+nav{
+	width:150px;
+	float:left;
+	margin-top:12px;
+	margin-right:18px;
+}
+
+nav *{
+	margin:1%;
+	padding:0;
+}
+
+nav ul{
+	list-style:none;
+	margin:12px 0px 0px 0px;
+	padding:0px;
+}
+
+nav li{
+	border-bottom:1px solid Gray;
+	border-left:1px solid Gray;
+	border-right:1px solid Gray;
+	border-top:1px solid Gray;
+}
+
+nav li a:link, nav li a:visited{
+	font-size:10pt;
+	font-weight:bold;
+	display:block;
+	padding:3px 0px 3px 3px;
+	background-color:red;
+	color:#ffffff;
+}
+
+nav li a:hover,navli a:active{
+	font-size:10pt;
+	font-weight:bold;
+	display:block;
+	padding:3px 0px 3px 3px;
+	background-color:orange;
+	color:#fff;
+}
+
+table{
+	border-collapse:separate;
+}
+
+td{
+	width:210px;
+	height:50px;
+}
+
+img{
+	width:200px;
+	height:170px;
+	border:1px solid gray;
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+}
+
+img#ma13{background-image:url("ma13.jpg")}
+img#ma14{background-image:url("ma14.jpg")}
+img#ma15{background-image:url("ma15.jpg")}
+img#ma16{background-image:url("ma16.png")}
+img#ma17{background-image:url("ma17.jpg")}
+img#ma18{background-image:url("ma18.jpg")}
+img#ma19{background-image:url("ma19.png")}
+img#ma20{background-image:url("ma20.jpg")}
+img#ma21{background-image:url("ma21.jpg")}
+img#ma22{background-image:url("ma22.jpg")}
+img#ma23{background-image:url("ma23.jpg")}
+img#ma24{background-image:url("ma24.jpg")}
+img#ma25{background-image:url("ma25.jfif")}
+
+img#mi1{background-image:url("mi1.jpg")}
+img#mi2{background-image:url("mi2.jpg")}
+img#mi3{background-image:url("mi3.jpg")}
+img#mi4{background-image:url("mi4.jpg")}
+img#mi5{background-image:url("mi5.jpg")}
+img#mi6{background-image:url("mi6.jpg")}
+img#mi7{background-image:url("mi7.jpg")}
+img#mi8{background-image:url("mi8.jpg")}
+img#mi9{background-image:url("mi9.jpg")}
+img#mi10{background-image:url("mi10.jpg")}
+img#mi11{background-image:url("mi11.png")}
+img#mi12{background-image:url("mi12.jpg")}
+img#mi13{background-image:url("mi13.jpg")}
+img#mi14{background-image:url("mi14.jpg")}
+img#mi15{background-image:url("mi15.jpg")}
+img#mi16{background-image:url("mi16.jpg")}
+img#mi17{background-image:url("mi17.png")}
+img#mi18{background-image:url("mi18.jpg")}
+img#mi19{background-image:url("mi19.jpg")}
+img#mi20{background-image:url("mi20.jpg")}
+
+img#ke1{background-image:url("ke1.jpg")}
+img#ke2{background-image:url("ke2.jpg")}
+img#ke3{background-image:url("ke3.jpg")}
+img#ke4{background-image:url("ke4.jpg")}
+img#ke5{background-image:url("ke5.jpg")}
+img#ke6{background-image:url("ke6.jpg")}
+img#ke7{background-image:url("ke7.jpg")}
+img#ke8{background-image:url("ke8.jpg")}
+img#ke9{background-image:url("ke9.jpg")}
+img#ke10{background-image:url("ke10.jpg")}
+
+img#su1{background-image:url("su1.jpg")}
+img#su2{background-image:url("su2.jpg")}
+img#su3{background-image:url("su3.jpg")}
+img#su4{background-image:url("su4.png")}
+img#su5{background-image:url("su5.png")}
+img#su6{background-image:url("su6.jpg")}
+img#su7{background-image:url("su7.jpg")}
+img#su8{background-image:url("su8.jpg")}
+img#su9{background-image:url("su9.jpg")}
+img#su10{background-image:url("su10.jpg")}
